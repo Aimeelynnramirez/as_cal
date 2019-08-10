@@ -1,5 +1,5 @@
 # grocery_cal 
-![alt text](https://i.imgur.com/8vmOfFQ.png "Grocery Cal")
+![alt text](https://i.imgur.com/tBSlYHg.png "Grocery Cal")
 
 mad-libs
 ![alt text](https://i.imgur.com/j0DF77u.png "Correct")
