@@ -18,3 +18,9 @@
 
 ### Things I've Done.
 ## Committing things soon. Stay tuned.
+---------------------------------------------
+
+psst.
+
+checkout 
+https://my-ruby-rails-example-template.herokuapp.com
