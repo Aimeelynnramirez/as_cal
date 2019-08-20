@@ -1,4 +1,10 @@
 # Examples
+
+#### discounts
+------------------------------
+![alt text](https://i.imgur.com/X86XD04.png "Mall Discount")
+![alt text](https://i.imgur.com/2lhPy1j.png "Discount")  
+
 #### piggy_bank
 ------------------------------
 ![alt text](https://i.imgur.com/HMJrHtS.png "Piggy Bank")
