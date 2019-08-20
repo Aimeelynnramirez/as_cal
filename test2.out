@@ -1,0 +1,4 @@
+@include "test1.out"
+BEGIN {
+    print "This is script test2."
+}
