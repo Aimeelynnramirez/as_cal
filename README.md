@@ -1,4 +1,7 @@
 # Examples
+## Cookie Costs:functions passing values.
+![alt text](https://i.imgur.com/n01Sy1s.png "Cookie Cost 1")
+![alt text](https://i.imgur.com/0yH20N7.png "Cookie Cost 2")
 
 #### discounts
 ------------------------------
